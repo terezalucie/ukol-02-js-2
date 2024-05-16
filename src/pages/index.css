@@ -1,0 +1,14 @@
+.container {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.app {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+p {
+  line-height: 150%;
+}
